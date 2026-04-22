@@ -1,5 +1,4 @@
 # Employee_Management_System
-Sure, here's a draft for your README.md file:
 
 ---
 
